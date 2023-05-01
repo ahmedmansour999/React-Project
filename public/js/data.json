@@ -1,0 +1,97 @@
+{
+    "work" : [
+        {
+            "id" : 1 , 
+            "icon_name" : "icon fas fa-bolt fa-2x" ,
+            "tiltle" : "the icon" ,
+            "body" : "lorem kasl l;asl " 
+        },
+        {
+            "id" : 2 , 
+            "icon_name" : "icon fas fa-bolt fa-2x" ,
+            "tiltle" : "the icon" ,
+            "body" : "lorem kasl l;asl " 
+        },
+        {
+            "id" : 3 , 
+            "icon_name" : "icon fas fa-bolt fa-2x" ,
+            "tiltle" : "the icon" ,
+            "body" : "lorem kasl l;asl " 
+        }
+    ],
+    "portfolio" : [
+        {
+            "id" : 1 , 
+            "image" :"img/shuffle-01.jpg"
+        }, 
+        {
+            "id" : 2 , 
+            "image" :"img/shuffle-02.jpg"
+        },  
+        {
+            "id" : 3 , 
+            "image" :"img/shuffle-03.jpg"
+        }, 
+        {
+            "id" : 4 , 
+            "image" :"img/shuffle-04.jpg"
+        }, 
+        {
+            "id" : 5 , 
+            "image" :"img/shuffle-05.jpg"
+        }, 
+        {
+            "id" : 6 , 
+            "image" :"img/shuffle-06.jpg"
+        }, 
+        {
+            "id" : 7 , 
+            "image" :"img/shuffle-07.jpg"
+        }, 
+        {
+            "id" : 8 , 
+            "image" :"img/shuffle-08.jpg"
+        }
+    ] , 
+    "skills" : [
+        {
+            "id" : "1" ,
+            "name" : "Html" ,
+            "precenatge" : "100%"
+        } ,
+        {
+            "id" : "2" ,
+            "name" : "css" ,
+            "precenatge" :" 90% "
+        } ,
+        {
+            "id" : "3" ,
+            "name" : "js" ,
+            "precenatge" :" 70% "
+        } 
+    ] ,
+    "social" : [
+        {
+            "id" : "1" , 
+            "icon" : ["fa", "fa-facebook", "fa-lg"] ,
+            "title" : "Follow Me on",
+            "info" : "facebook"
+        },
+        {
+            "id" : "2" , 
+            "icon" : ["fa", "fa-twitter", "fa-lg"],
+
+            "title" : "Follow Me on" ,
+            "info" : "Twitter"
+        },
+        {
+            "id" : "3" , 
+            "icon" : ["fa", "fa-github", "fa-lg"] ,
+
+            "title" : "Follow Me on" ,
+            "info" : "Pin"
+        }
+    ]
+
+
+}
